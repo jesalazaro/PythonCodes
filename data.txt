@@ -1,0 +1,11 @@
+{'boolean1': None,
+ 'disccionario': {'arroz': 5000, 'papa': 2000},
+ 'intValue': 0,
+ 'littleboolean': False,
+ 'myEmptyList': None,
+ 'myList': [],
+ 'myList2': ['info1', 'info2'],
+ 'text1': None,
+ 'text2': 'hello',
+ 'value1': None,
+ 'value2': None}
